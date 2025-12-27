@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
-void fillSalaries (double salaries[] , int size)
 int main()
 {
-    
+    cout<<"OMAR"<<endl;
     return 0;
 }
