@@ -78,7 +78,7 @@
 > جميع الحلول موجودة في فرع **master**  
 > إذا لم تظهر الملفات، قم بتغيير الفرع من **main** إلى **master**  
 > أو يمكنك الانتقال مباشرة من هنا:  
-> 👉 [https://github.com/OmarAlmashaqbeh/CPP_LAB/tree/master](https://github.com/OmarAlmashaqbeh/CPP_LAP/tree/master?tab=readme-ov-file)
+> 👉 [https://github.com/OmarAlmashaqbeh/CPP_LAP/tree/master/Cpp_LapSheet](https://github.com/OmarAlmashaqbeh/CPP_LAP/tree/master/Cpp_LapSheet)
 
 ---
 
